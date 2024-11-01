@@ -21,9 +21,9 @@
 - Os dados precisam ser salvos no banco de dados.
 - O menu será exibido até que o usuário escolha a opção 0.
 
-Tecnologias:
-ORM: SQLAlchemy
-Banco de dados: MySQL
-Containerização: Docker
-Orquestração de contêineres: Docker Compose
-Versionamento: Git
+## Tecnologias:
+- ORM: SQLAlchemy
+- Banco de dados: MySQL
+- Containerização: Docker
+- Orquestração de contêineres: Docker Compose
+- Versionamento: Git
