@@ -1,15 +1,15 @@
 # Atividade_pontuda-Cone-BD
 
-Obejtivo:
-Criar um CRUD para um usuário:
-Create (criar usuário)
-Read (listar todos usuários / pesquisar um usuário)
-Update (atualizar dados de um usuário)
-Delete (excluir um usuário)
+## Obejtivo:
+- Criar um CRUD para um usuário:
+- Create (criar usuário)
+- Read (listar todos usuários / pesquisar um usuário)
+- Update (atualizar dados de um usuário)
+- Delete (excluir um usuário)
 
-No arquivo principal, crie um menu onde o seja possível escolher a ação desejada.
+## No arquivo principal, crie um menu onde o seja possível escolher a ação desejada.
 === SENAI SOLUTION === 
- 1 - Adicionar usuário 
+1 - Adicionar usuário 
 2 - Pesquisar um usuário 
 3 - Atualizar dados de um usuário 
 4 - Excluir um usuário 
@@ -18,8 +18,8 @@ No arquivo principal, crie um menu onde o seja possível escolher a ação desej
 
 Informe a opção desejada:
 
-Os dados precisam ser salvos no banco de dados.
-O menu será exibido até que o usuário escolha a opção 0.
+- Os dados precisam ser salvos no banco de dados.
+- O menu será exibido até que o usuário escolha a opção 0.
 
 Tecnologias:
 ORM: SQLAlchemy
