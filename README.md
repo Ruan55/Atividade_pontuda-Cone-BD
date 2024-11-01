@@ -8,15 +8,15 @@
 - Delete (excluir um usuário)
 
 ## No arquivo principal, crie um menu onde o seja possível escolher a ação desejada.
-=== SENAI SOLUTION === 
-1 - Adicionar usuário 
-2 - Pesquisar um usuário 
-3 - Atualizar dados de um usuário 
-4 - Excluir um usuário 
-5 - Exibir todos os usuários cadastrados 
-0 - Sair
+- === SENAI SOLUTION === 
+- 1 - Adicionar usuário 
+- 2 - Pesquisar um usuário 
+- 3 - Atualizar dados de um usuário 
+- 4 - Excluir um usuário 
+- 5 - Exibir todos os usuários cadastrados 
+- 0 - Sair
 
-Informe a opção desejada:
+- Informe a opção desejada:
 
 - Os dados precisam ser salvos no banco de dados.
 - O menu será exibido até que o usuário escolha a opção 0.
